@@ -1,0 +1,1 @@
+Create database and name it as "my_hostel". Then import the above my_hostel.sql to make connection between codebase and database. Thankyou!

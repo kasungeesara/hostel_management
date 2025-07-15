@@ -1,0 +1,92 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  /* background-color: aqua; */
+}
+
+.section1 {
+  background-image: url("assets/backdrop1.jpg");
+  background-size: cover;
+  height: 100% !important;
+  width: 100%;
+}
+.sectin1Headding {
+  position: absolute;
+  /* margin-top: 100px !important; */
+  color: rgb(187, 187, 187);
+  top: 40%;
+  left: 10%;
+  font-size: 60px;
+  /* background-color: aqua; */
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+.section1Vector1 {
+  position: absolute;
+  border-radius: 10px;
+  right: 15%;
+  top: 25%;
+  height: 400px;
+  width: 400px;
+  background-color: rgb(231, 231, 231);
+  box-shadow: 20px -20px 5px 0px rgba(0, 0, 0, 0.3);
+}
+.section1Vector1Heading {
+  color: rgb(72, 72, 72);
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  /* background-color: aqua; */
+  text-align: center;
+  margin-top: 50px;
+  width: 100%;
+}
+.section1Vector1Button {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  margin-top: 150px;
+  background-color: #136d37;
+  color: rgb(255, 255, 255);
+  border: none;
+  width: 200px;
+  height: 50px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.section1Vector1SubHead {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 20px;
+}
+.section1Vector1Link {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 5px;
+  color: #449866;
+  width: fit-content;
+  margin: auto;
+}
+.headingStyle {
+  position: absolute !important;
+}
+.buttonStyle {
+  margin-top: 65% !important;
+}
+.section1Vector2 {
+  position: absolute;
+  border-radius: 10px;
+  right: 12%;
+  top: 20%;
+  height: 400px;
+  width: 400px;
+  background-color: #449866;
+}
+
+
+

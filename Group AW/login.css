@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  /* background-color: aqua; */
+}
+.section1 {
+  background-image: url("assets/backdrop1.jpg");
+  height: 100% !important;
+  width: 100%;
+}
+input:focus {
+  border: none !important;
+}
+
+.loginImage {
+  background-color: aqua;
+  height: 635px !important;
+}

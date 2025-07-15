@@ -1,0 +1,47 @@
+.section3 {
+  background-color: #e7e7e7 !important;
+  height: 500px !important;
+  width: 100% !important;
+}
+.aboutTextContainer {
+  color: #ffffff !important;
+  background-color: #1c723f;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.about-heading2 {
+  text-align: center !important;
+  font-weight: bold !important;
+  line-height: 35px;
+  font-size: 25px !important;
+  color: #ffffff;
+  padding: 50px;
+}
+.social-logo-container-ul {
+  display: flex;
+  margin-top: 10px;
+}
+.social-logo-container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: fit-content;
+  margin: auto;
+}
+.sociallogo2 {
+  height: 35px;
+  width: auto;
+  margin-right: 10px;
+  fill: #449866 !important;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.sociallogo2:hover {
+  fill: #10582d !important;
+}
+.profilCardHolder {
+  display: block !important;
+  width: 100% !important;
+}
